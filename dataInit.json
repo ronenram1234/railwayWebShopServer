@@ -1,0 +1,135 @@
+{
+  "users": [
+    {
+      "name": {
+        "first": "Alice",
+        "middle": "",
+        "last": "Johnson"
+      },
+      "isBusiness": false,
+      "isAdmin": false,
+      "phone": "050-3333333",
+      "email": "alice.johnson@gmail.com",
+      "password": "test1234",
+      "address": {
+        "state": "",
+        "country": "Israel",
+        "city": "Eilat",
+        "street": "Ben Gurion",
+        "houseNumber": 7
+      },
+      "image": {
+        "url": "",
+        "alt": ""
+      }
+    },
+    {
+      "name": {
+        "first": "David",
+        "middle": "",
+        "last": "Brown"
+      },
+      "isBusiness": true,
+      "isAdmin": false,
+      "phone": "050-4444444",
+      "email": "david.brown@gmail.com",
+      "password": "test1234",
+      "address": {
+        "state": "",
+        "country": "Israel",
+        "city": "Netanya",
+        "street": "Independence",
+        "houseNumber": 15
+      },
+      "image": {
+        "url": "",
+        "alt": ""
+      }
+    },
+    {
+      "name": {
+        "first": "Emma",
+        "middle": "",
+        "last": "Davis"
+      },
+      "isBusiness": false,
+      "isAdmin": true,
+      "phone": "050-5555555",
+      "email": "emma.davis@gmail.com",
+      "password": "test1234",
+      "address": {
+        "state": "",
+        "country": "Israel",
+        "city": "Be'er Sheva",
+        "street": "King David",
+        "houseNumber": 30
+      },
+      "image": {
+        "url": "",
+        "alt": ""
+      }
+    }
+  ],
+  "cards": [
+    {
+      "title": "Tech  Solutions",
+      "subtitle": "Software Development",
+      "description": "Custom software solutions for businesses",
+      "phone": "050-6666666",
+      "email": "info@techsolutions.com",
+      "web": "https://www.techsolutions.com",
+      "image": {
+        "url": "",
+        "alt": ""
+      },
+      "address": {
+        "state": "",
+        "country": "Israel",
+        "city": "Ramat Gan",
+        "street": "Hamasger",
+        "houseNumber": 8,
+        "zip": "11111"
+      }
+    },
+    {
+      "title": "Green Energy",
+      "subtitle": "Renewable Energy Solutions",
+      "description": "Providing sustainable energy solutions",
+      "phone": "050-7777777",
+      "email": "contact@greenenergy.com",
+      "web": "https://www.greenenergy.com",
+      "image": {
+        "url": "",
+        "alt": ""
+      },
+      "address": {
+        "state": "",
+        "country": "Israel",
+        "city": "Haifa",
+        "street": "Solar Ave",
+        "houseNumber": 3,
+        "zip": "22222"
+      }
+    },
+    {
+      "title": "Foodie Heaven",
+      "subtitle": "Restaurant & Catering",
+      "description": "Fine dining and catering services",
+      "phone": "050-8888888",
+      "email": "reservations@foodieheaven.com",
+      "web": "https://www.foodieheaven.com",
+      "image": {
+        "url": "",
+        "alt": ""
+      },
+      "address": {
+        "state": "",
+        "country": "Israel",
+        "city": "Ashdod",
+        "street": "Yam Street",
+        "houseNumber": 22,
+        "zip": "33333"
+      }
+    }
+  ]
+}

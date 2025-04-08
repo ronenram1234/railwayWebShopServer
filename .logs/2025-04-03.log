@@ -1,0 +1,8 @@
+[03/04/2025, 6:01:15] | "POST" | /CustomerRequest | Status: 404 | Size: 42 bytes | ⏳ Time: 2 ms
+[03/04/2025, 6:06:55] | "POST" | /CustomerRequest | Status: 404 | Size: 42 bytes | ⏳ Time: 1 ms
+[03/04/2025, 6:08:32] | "POST" | /CustomerRequest | Status: 404 | Size: 42 bytes | ⏳ Time: 2 ms
+[03/04/2025, 6:12:19] | "POST" | /CustomerRequest | Status: 404 | Size: 42 bytes | ⏳ Time: 2 ms
+[03/04/2025, 6:15:55] | "POST" | /CustomerRequest | Status: 404 | Size: 42 bytes | ⏳ Time: 25 ms
+[03/04/2025, 6:16:25] | "POST" | /customerrequest | Status: 404 | Size: 42 bytes | ⏳ Time: 1 ms
+[03/04/2025, 6:17:52] | "POST" | /customerrequest | Status: 404 | Size: 42 bytes | ⏳ Time: 19 ms
+[03/04/2025, 6:26:05] | "POST" | /api/customerrequest | Status: 404 | Size: 42 bytes | ⏳ Time: 18 ms

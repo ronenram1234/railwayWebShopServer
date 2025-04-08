@@ -1,0 +1,7 @@
+{
+  "ignore": ["temp/*", "backups/*", "*.test.js", "node_modules/*"],
+  "verbose": false,
+  "watch": ["*.js", "routes/*", "middleware/*", "models/*"],
+  "ext": "js,json",
+  "quiet": true
+}
